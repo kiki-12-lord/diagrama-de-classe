@@ -1,6 +1,6 @@
 # diagrama-de-classe
 
-'''python
+```python
 from datetime import datetime, date
 
 class Pessoa:
@@ -26,4 +26,4 @@ p = Pessoa(1, "João da Silva", "1990-05-13")
 print(p)
 
 
-'''
+```
